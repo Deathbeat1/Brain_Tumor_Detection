@@ -1,2 +1,2 @@
 # Brain_Tumor_Detection
-Proyecto para deteccion de tumores cerebrales en imagenes medica con uso de inteligencia artificial
+Project for detection of brain tumors in medical images with the use of artificial intelligence 
